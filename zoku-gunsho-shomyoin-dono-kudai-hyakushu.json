@@ -1699,6 +1699,10 @@
    "kotobagaki": "天文十三年三月十七日書写之了尊俊"
   }
  ],
+ "translation": {
+  "count": 12,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-shomyoin-dono-kudai-hyakushu",
   "work": "称名院殿句題百首",
@@ -1711,7 +1715,7 @@
   "blocks": 12,
   "chars": 3280,
   "poems": 102,
-  "yaku": 0,
+  "yaku": 12,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T17:04:54+09:00"
